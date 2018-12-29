@@ -140,19 +140,19 @@
 
 1. 打开程序
 
-   ![](C:\CalaVSMons\src\main\resources\open.JPG)
+   ![](src\main\resources\open.JPG)
 
 2. 开始游戏
 
-   ![](C:\CalaVSMons\src\main\resources\play.gif)
+   ![](src\main\resources\play.gif)
 
 3. 再次点击开始游戏
 
-   ![](C:\CalaVSMons\src\main\resources\replay.gif)
+   ![](src\main\resources\replay.gif)
 
 4. 打开游戏文件
 
-   ![](C:\CalaVSMons\src\main\resources\loadplay.gif)
+   ![](src\main\resources\loadplay.gif)
 
 ## 游戏规则概述
 
